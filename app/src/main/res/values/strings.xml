@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocCast Presenter</string>
+    <string name="home_subtitle">Đọc nhanh &amp; Trình chiếu PDF, Word, PowerPoint, Excel</string>
+    <string name="btn_open_file">Mở tài liệu từ máy</string>
+    <string name="btn_wireless_cast">Kết nối màn hình không dây (Miracast / TV)</string>
+    <string name="recent_files_title">Tài liệu mở gần đây</string>
+    <string name="recent_files_empty">Chưa có tài liệu nào.\nNhấn "Mở tài liệu từ máy" để chọn file PDF, DOCX, DOC, PPTX, PPT, XLSX hoặc XLS.</string>
+    <string name="supported_formats">Hỗ trợ: PDF • DOCX / DOC • PPTX / PPT • XLSX / XLS</string>
+    <string name="cast_wifi_title">Trình chiếu qua Wi-Fi / Mã QR</string>
+    <string name="cast_wifi_hint">Kết nối điện thoại và máy tính/Smart TV cùng mạng Wi-Fi, sau đó quét mã QR hoặc nhập địa chỉ dưới đây lên trình duyệt:</string>
+    <string name="btn_start_wifi_cast">Bật phát Wi-Fi</string>
+    <string name="btn_stop_wifi_cast">Tắt phát Wi-Fi</string>
+    <string name="btn_close">Đóng</string>
+    <string name="loading_document">Đang mở tài liệu…</string>
+</resources>
